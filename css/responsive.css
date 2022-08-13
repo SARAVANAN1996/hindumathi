@@ -23,8 +23,12 @@
 }
 
 @media (max-width: 768px) {
+  .header_section .navbar-brand {
+    font-size: 20px;
+  }
+
   .header_section {
-    background-size: 45% 80px;
+    background-size: 100% 80px;
   }
 
   .slider_section {
